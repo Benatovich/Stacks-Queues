@@ -1,0 +1,23 @@
+{
+  "name": "stacks-queues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benatovich/Stacks-Queues.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benatovich/Stacks-Queues/issues"
+  },
+  "homepage": "https://github.com/Benatovich/Stacks-Queues#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
